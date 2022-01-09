@@ -1,4 +1,4 @@
-# Springboot Angular E-Commerce Website
+# Spring boot Angular E-Commerce Website
 
 This project is based on the following online course on Udemy:  
 Full Stack: Angular and Java Spring Boot E-Commerce Website  
